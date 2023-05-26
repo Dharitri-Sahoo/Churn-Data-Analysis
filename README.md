@@ -3,7 +3,9 @@ The objective of the project was to analyze the churn data set and find out the 
 Insights from Customer Retention Data Analysis:
 
 Customers with month-to-month contract type are more likely to churn (~89%).
+
 Out of 1869 churned customers, 476 senior citizens have left the company (~25%).
+
 Customers within 20 months tenure are more likely to leave(~43%).
 
 Suggestions to retain customers:
